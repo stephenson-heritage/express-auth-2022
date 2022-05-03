@@ -1,0 +1,14 @@
+{
+    "name": "express-auth-2022",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "nodemon ./bin/www"
+    },
+    "dependencies": {
+        "cookie-parser": "~1.4.6",
+        "debug": "~4.3.4",
+        "express": "~4.18.1",
+        "morgan": "~1.10.0"
+    }
+}
